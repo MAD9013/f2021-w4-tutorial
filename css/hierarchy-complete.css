@@ -1,0 +1,98 @@
+@font-face {
+  font-family: "Merriweather";
+  src: url("../font/merriweather/Merriweather-BoldItalic.ttf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../font/merriweather/Merriweather-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../font/merriweather/Merriweather-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Merriweather";
+  src: url("../font/merriweather/Merriweather-Italic.ttf");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  src: url("../font/merriweather-sans/MerriweatherSans-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  src: url("../font/merriweather-sans/MerriweatherSans-Bold.ttf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  src: url("../font/merriweather-sans/MerriweatherSans-Italic.ttf");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Merriweather Sans";
+  src: url("../font/merriweather-sans/MerriweatherSans-BoldItalic.ttf");
+  font-weight: bold;
+  font-style: italic;
+}
+
+html {
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+h1 {
+  font-size: 4.209rem;
+  font-family: "Merriweather", serif;
+  color: #00673e;
+}
+
+h2 {
+  font-size: 3.157rem;
+  padding-top: 3rem;
+  border-bottom: 1px solid #ccc;
+}
+
+h3 {
+  font-size: 1.777rem;
+  color: #00673e;
+  margin-bottom: 0;
+}
+
+h4 {
+  text-transform: uppercase;
+  font-size: 1.333rem;
+  font-family: "Merriweather", serif;
+}
+
+h5 {
+  font-size: 1.333rem;
+  font-weight: normal;
+}
+
+h6 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #00673e;
+}
